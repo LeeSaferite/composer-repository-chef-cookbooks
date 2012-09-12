@@ -53,4 +53,6 @@ foreach ($repositories as $repository) {
     $packages[$repository->full_name] = $versions;
 }
 
-echo str_replace('\\/', '/', json_encode($packages));
+$output = array('packages' => $packages);
+
+echo str_replace('\\/', '/', json_encode($output));
