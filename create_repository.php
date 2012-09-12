@@ -19,7 +19,30 @@ function prepare_ref($ref) {
     return str_replace('refs/heads/', '', str_replace('refs/tags/', '', $ref));
 }
 
-$repositories = json_decode(file_get_contents('https://api.github.com/orgs/opscode-cookbooks/repos'));
+function fetch_all($url) {
+
+    $data = array();
+    $page = 1;
+
+    while (
+        ($contents = file_get_contents("{$url}?page={$page}")) &&
+        ($decoded = json_decode($contents)) &&
+        count($decoded) > 0
+    ) {
+        $page++;
+
+        $data = array_merge(
+            $data,
+            $decoded
+        );
+    }
+
+    return $data;
+}
+
+$packages = array();
+
+$repositories = fetch_all('https://api.github.com/orgs/opscode-cookbooks/repos');
 
 foreach ($repositories as $repository) {
 
