@@ -10,10 +10,10 @@ Usage example:
         "require": {
             "opscode-cookbooks/apache2": "1.1.*"
         }
-	"repositories": [
+        "repositories": [
             {
-                    "type": "composer",
-                    "url": "https://raw.github.com/dancras/composer-repository-chef-cookbooks/master"
+                "type": "composer",
+                "url": "https://raw.github.com/dancras/composer-repository-chef-cookbooks/master"
             }
         ]
     }
