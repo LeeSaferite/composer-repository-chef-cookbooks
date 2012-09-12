@@ -1,0 +1,1141 @@
+{
+    "opscode-cookbooks/7-zip": {
+        "dev-master": {
+            "name": "opscode-cookbooks/7-zip",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/7-zip.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/activemq": {
+        "dev-master": {
+            "name": "opscode-cookbooks/activemq",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/activemq.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/ant": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/ant",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/ant.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/ant",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/ant.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/apache2": {
+        "dev-master": {
+            "name": "opscode-cookbooks/apache2",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apache2.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.1.10": {
+            "name": "opscode-cookbooks/apache2",
+            "type": "chef-cookbook",
+            "version": "1.1.10",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apache2.git",
+                "reference": "1.1.10"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.1.12": {
+            "name": "opscode-cookbooks/apache2",
+            "type": "chef-cookbook",
+            "version": "1.1.12",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apache2.git",
+                "reference": "1.1.12"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.1.4": {
+            "name": "opscode-cookbooks/apache2",
+            "type": "chef-cookbook",
+            "version": "1.1.4",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apache2.git",
+                "reference": "1.1.4"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.1.6": {
+            "name": "opscode-cookbooks/apache2",
+            "type": "chef-cookbook",
+            "version": "1.1.6",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apache2.git",
+                "reference": "1.1.6"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.1.8": {
+            "name": "opscode-cookbooks/apache2",
+            "type": "chef-cookbook",
+            "version": "1.1.8",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apache2.git",
+                "reference": "1.1.8"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/apparmor": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/apparmor",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apparmor.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/apparmor",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apparmor.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/application": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/application",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/application",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.0": {
+            "name": "opscode-cookbooks/application",
+            "type": "chef-cookbook",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application.git",
+                "reference": "1.0.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.2": {
+            "name": "opscode-cookbooks/application",
+            "type": "chef-cookbook",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application.git",
+                "reference": "1.0.2"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/application_java": {
+        "dev-master": {
+            "name": "opscode-cookbooks/application_java",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_java.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.0": {
+            "name": "opscode-cookbooks/application_java",
+            "type": "chef-cookbook",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_java.git",
+                "reference": "1.0.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/application_nginx": {
+        "dev-master": {
+            "name": "opscode-cookbooks/application_nginx",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_nginx.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.0": {
+            "name": "opscode-cookbooks/application_nginx",
+            "type": "chef-cookbook",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_nginx.git",
+                "reference": "1.0.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/application_php": {
+        "dev-master": {
+            "name": "opscode-cookbooks/application_php",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_php.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.0": {
+            "name": "opscode-cookbooks/application_php",
+            "type": "chef-cookbook",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_php.git",
+                "reference": "1.0.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.2": {
+            "name": "opscode-cookbooks/application_php",
+            "type": "chef-cookbook",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_php.git",
+                "reference": "1.0.2"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/application_python": {
+        "dev-master": {
+            "name": "opscode-cookbooks/application_python",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_python.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.0": {
+            "name": "opscode-cookbooks/application_python",
+            "type": "chef-cookbook",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_python.git",
+                "reference": "1.0.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.2": {
+            "name": "opscode-cookbooks/application_python",
+            "type": "chef-cookbook",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_python.git",
+                "reference": "1.0.2"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/application_ruby": {
+        "dev-master": {
+            "name": "opscode-cookbooks/application_ruby",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_ruby.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.0": {
+            "name": "opscode-cookbooks/application_ruby",
+            "type": "chef-cookbook",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_ruby.git",
+                "reference": "1.0.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.2": {
+            "name": "opscode-cookbooks/application_ruby",
+            "type": "chef-cookbook",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/application_ruby.git",
+                "reference": "1.0.2"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/apt": {
+        "dev-master": {
+            "name": "opscode-cookbooks/apt",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apt.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.4.2": {
+            "name": "opscode-cookbooks/apt",
+            "type": "chef-cookbook",
+            "version": "1.4.2",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apt.git",
+                "reference": "1.4.2"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.4.4": {
+            "name": "opscode-cookbooks/apt",
+            "type": "chef-cookbook",
+            "version": "1.4.4",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apt.git",
+                "reference": "1.4.4"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.4.6": {
+            "name": "opscode-cookbooks/apt",
+            "type": "chef-cookbook",
+            "version": "1.4.6",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apt.git",
+                "reference": "1.4.6"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.4.8": {
+            "name": "opscode-cookbooks/apt",
+            "type": "chef-cookbook",
+            "version": "1.4.8",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/apt.git",
+                "reference": "1.4.8"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/ark": {
+        "dev-master": {
+            "name": "opscode-cookbooks/ark",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/ark.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/aws": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/aws",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/aws.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/aws",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/aws.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "0.100.0": {
+            "name": "opscode-cookbooks/aws",
+            "type": "chef-cookbook",
+            "version": "0.100.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/aws.git",
+                "reference": "0.100.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "0.100.2": {
+            "name": "opscode-cookbooks/aws",
+            "type": "chef-cookbook",
+            "version": "0.100.2",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/aws.git",
+                "reference": "0.100.2"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/bluepill": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/bluepill",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/bluepill.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/bluepill",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/bluepill.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.4": {
+            "name": "opscode-cookbooks/bluepill",
+            "type": "chef-cookbook",
+            "version": "1.0.4",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/bluepill.git",
+                "reference": "1.0.4"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.6": {
+            "name": "opscode-cookbooks/bluepill",
+            "type": "chef-cookbook",
+            "version": "1.0.6",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/bluepill.git",
+                "reference": "1.0.6"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/boost": {
+        "dev-master": {
+            "name": "opscode-cookbooks/boost",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/boost.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/build-essential": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/build-essential",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/build-essential.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/build-essential",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/build-essential.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.2": {
+            "name": "opscode-cookbooks/build-essential",
+            "type": "chef-cookbook",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/build-essential.git",
+                "reference": "1.0.2"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.1.0": {
+            "name": "opscode-cookbooks/build-essential",
+            "type": "chef-cookbook",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/build-essential.git",
+                "reference": "1.1.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/chef": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/chef",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/chef.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/chef",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/chef.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/chef-client": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/chef-client",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/chef-client.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/chef-client",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/chef-client.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.1.4": {
+            "name": "opscode-cookbooks/chef-client",
+            "type": "chef-cookbook",
+            "version": "1.1.4",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/chef-client.git",
+                "reference": "1.1.4"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.2.0": {
+            "name": "opscode-cookbooks/chef-client",
+            "type": "chef-cookbook",
+            "version": "1.2.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/chef-client.git",
+                "reference": "1.2.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/chef-server": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/chef-server",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/chef-server.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/chef-server",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/chef-server.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/chef_handler": {
+        "dev-master": {
+            "name": "opscode-cookbooks/chef_handler",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/chef_handler.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/cloudkick": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/cloudkick",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/cloudkick.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/cloudkick",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/cloudkick.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/couchdb": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/couchdb",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/couchdb.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/couchdb",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/couchdb.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.2": {
+            "name": "opscode-cookbooks/couchdb",
+            "type": "chef-cookbook",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/couchdb.git",
+                "reference": "1.0.2"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/cron": {
+        "dev-master": {
+            "name": "opscode-cookbooks/cron",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/cron.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.0": {
+            "name": "opscode-cookbooks/cron",
+            "type": "chef-cookbook",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/cron.git",
+                "reference": "1.0.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.2": {
+            "name": "opscode-cookbooks/cron",
+            "type": "chef-cookbook",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/cron.git",
+                "reference": "1.0.2"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.4": {
+            "name": "opscode-cookbooks/cron",
+            "type": "chef-cookbook",
+            "version": "1.0.4",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/cron.git",
+                "reference": "1.0.4"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/daemontools": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/daemontools",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/daemontools.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/daemontools",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/daemontools.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/database": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/database",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/database.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/database",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/database.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.2.0": {
+            "name": "opscode-cookbooks/database",
+            "type": "chef-cookbook",
+            "version": "1.2.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/database.git",
+                "reference": "1.2.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.3.0": {
+            "name": "opscode-cookbooks/database",
+            "type": "chef-cookbook",
+            "version": "1.3.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/database.git",
+                "reference": "1.3.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.3.2": {
+            "name": "opscode-cookbooks/database",
+            "type": "chef-cookbook",
+            "version": "1.3.2",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/database.git",
+                "reference": "1.3.2"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.3.4": {
+            "name": "opscode-cookbooks/database",
+            "type": "chef-cookbook",
+            "version": "1.3.4",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/database.git",
+                "reference": "1.3.4"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/djbdns": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/djbdns",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/djbdns.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/djbdns",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/djbdns.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/dmg": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/dmg",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/dmg.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/dmg",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/dmg.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "1.0.0": {
+            "name": "opscode-cookbooks/dmg",
+            "type": "chef-cookbook",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/dmg.git",
+                "reference": "1.0.0"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/drbd": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/drbd",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/drbd.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/drbd",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/drbd.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    },
+    "opscode-cookbooks/dynect": {
+        "dev-foodcritic": {
+            "name": "opscode-cookbooks/dynect",
+            "type": "chef-cookbook",
+            "version": "dev-foodcritic",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/dynect.git",
+                "reference": "foodcritic"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        },
+        "dev-master": {
+            "name": "opscode-cookbooks/dynect",
+            "type": "chef-cookbook",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/opscode-cookbooks/dynect.git",
+                "reference": "master"
+            },
+            "require": {
+                "dancras/chef-cookbook-installer": "*"
+            }
+        }
+    }
+}
