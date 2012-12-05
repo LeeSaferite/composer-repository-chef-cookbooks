@@ -2146,19 +2146,6 @@
             }
         },
         "opscode-cookbooks/glance": {
-            "2012.1.0": {
-                "name": "opscode-cookbooks/glance",
-                "require": {
-                    "dancras/chef-cookbook-installer": "*"
-                },
-                "source": {
-                    "reference": "2012.1.0",
-                    "type": "git",
-                    "url": "git://github.com/opscode-cookbooks/glance.git"
-                },
-                "type": "chef-cookbook",
-                "version": "2012.1.0"
-            },
             "5.0.0": {
                 "name": "opscode-cookbooks/glance",
                 "require": {
@@ -2487,19 +2474,6 @@
             }
         },
         "opscode-cookbooks/horizon": {
-            "2012.1.0": {
-                "name": "opscode-cookbooks/horizon",
-                "require": {
-                    "dancras/chef-cookbook-installer": "*"
-                },
-                "source": {
-                    "reference": "2012.1.0",
-                    "type": "git",
-                    "url": "git://github.com/opscode-cookbooks/horizon.git"
-                },
-                "type": "chef-cookbook",
-                "version": "2012.1.0"
-            },
             "5.0.0": {
                 "name": "opscode-cookbooks/horizon",
                 "require": {
@@ -2908,19 +2882,6 @@
             }
         },
         "opscode-cookbooks/keystone": {
-            "2012.1.0": {
-                "name": "opscode-cookbooks/keystone",
-                "require": {
-                    "dancras/chef-cookbook-installer": "*"
-                },
-                "source": {
-                    "reference": "2012.1.0",
-                    "type": "git",
-                    "url": "git://github.com/opscode-cookbooks/keystone.git"
-                },
-                "type": "chef-cookbook",
-                "version": "2012.1.0"
-            },
             "5.0.0": {
                 "name": "opscode-cookbooks/keystone",
                 "require": {
@@ -3718,19 +3679,6 @@
             }
         },
         "opscode-cookbooks/nova": {
-            "2012.1.0": {
-                "name": "opscode-cookbooks/nova",
-                "require": {
-                    "dancras/chef-cookbook-installer": "*"
-                },
-                "source": {
-                    "reference": "2012.1.0",
-                    "type": "git",
-                    "url": "git://github.com/opscode-cookbooks/nova.git"
-                },
-                "type": "chef-cookbook",
-                "version": "2012.1.0"
-            },
             "5.0.0": {
                 "name": "opscode-cookbooks/nova",
                 "require": {
